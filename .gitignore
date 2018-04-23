@@ -1,8 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Kotlin template
 # Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -26,4 +24,5 @@ hs_err_pid*
 out/
 .idea/
 kotlin-nmap.iml
-/.idea/
+/target/
+/kotlin-nmap.iml
